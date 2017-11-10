@@ -1,0 +1,54 @@
+/* 样式基础1.“|”的样式 */
+.splitline{
+	padding: 0 14px;
+	color: #b6b6b6;
+}
+.padding-left-2em{
+	padding-left: 2em;
+}
+.width_p10{
+	width: 10%;
+}
+.icon-phone{
+	background: url(http://esf.js.soufunimg.com/esf/zu/img/icon-newdetail1.png) 0 4px no-repeat;
+	background-position: 0 -52px;
+    cursor: pointer;
+}
+.icon-share{
+	background: url(http://esf.js.soufunimg.com/esf/zu/img/icon-newdetail1.png) 0 20px no-repeat;
+	background-position: 0 -108px;
+	cursor: pointer;
+}
+.icon-collect{
+	background: url(http://esf.js.soufunimg.com/esf/zu/img/icon-newdetail1.png) 0 20px no-repeat;
+	background-position: 0 -162px;
+	cursor: pointer;
+}
+.icon-warn-hand{
+	background: url(http://esf.js.soufunimg.com/esf/zu/img/icon-newdetail1.png) 0 15px no-repeat;
+	background-position: 0 -218px;
+	cursor: pointer;
+}
+.a{
+	float: left;
+    padding-left: 15px;
+}
+/*  a*/
+a:hover {
+    color: #c00;
+    text-decoration: none;
+}
+/* font */
+.font-large{
+	font-size: large;
+}
+.gray{
+	color: gray;
+}
+.red{
+	color: red;
+}
+/*margin */
+.margin-right40{
+	 margin-right: 40px;
+}   
